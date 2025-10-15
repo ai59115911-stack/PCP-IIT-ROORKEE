@@ -19,4 +19,11 @@
   Trainer- Aisha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gmail- learnwithaishaa@gmail.com
    - 1st one - https://colab.research.google.com/drive/10KrghxtJNcrfzOCrqjljfWwerqTMFSC8?usp=sharing#scrollTo=tTYKEYyX3VIl
    - 2nd one - https://colab.research.google.com/drive/17RDR4r2fGwoLZoYbSNL1emo0FOxr812A?usp=sharing#scrollTo=QaXa2nvROsiQ
-   - 3rd one - https://colab.research.google.com/drive/1mGGeNIgVO9S1zrWGqNF3Zca-UJgeEa0N?usp=sharing  
+   - 3rd one - https://colab.research.google.com/drive/1mGGeNIgVO9S1zrWGqNF3Zca-UJgeEa0N?usp=sharing
+## SPECIALIZATION ( AI AND DATA SCIENCE)
+  Following are the  links
+- # Numpy And Pandas 
+  Trainer- Anirban Paul's
+  linkedin Profile - https://www.linkedin.com/in/paulanirban4/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  - Numpy  - https://colab.research.google.com/drive/10ZHSIhcu0q0yAMWRJc__ZwnBrXLSGDPj?usp=sharing
+  - Pandas - https://colab.research.google.com/drive/1wSg5WqppafM3xd1st8x33ZPXpHgxvpcz?usp=sharing#scrollTo=vpmTD9k2mnfP

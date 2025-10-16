@@ -22,9 +22,11 @@
    - 3rd one - https://colab.research.google.com/drive/1mGGeNIgVO9S1zrWGqNF3Zca-UJgeEa0N?usp=sharing
 ## SPECIALIZATION ( AI AND DATA SCIENCE)
   Following are the  links
-- # Numpy And Pandas 
+- # Numpy And Pandas And Visualisation 
    Trainer- Anirban Paul's&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    linkedin Profile - https://www.linkedin.com/in/paulanirban4/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   - Numpy  - https://colab.research.google.com/drive/10ZHSIhcu0q0yAMWRJc__ZwnBrXLSGDPj?usp=sharing
   - Pandas link 1 -https://colab.research.google.com/drive/1wSg5WqppafM3xd1st8x33ZPXpHgxvpcz?usp=sharing#scrollTo=vpmTD9k2mnfP
   - Pandas link2 - https://colab.research.google.com/drive/1jIf5_ChMdxloPf7RV_FiOQFoItxno2AH?usp=sharing
+  - Pandas link3 - https://colab.research.google.com/drive/141RRcwuoW8t9S1ZICY9qPiea1Ut1_4OS?usp=sharing
+  - Visualisation - https://colab.research.google.com/drive/140jkvkSYLSajP2VLtrkgjwzclaE7QypA?usp=sharing

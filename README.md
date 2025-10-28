@@ -33,3 +33,4 @@
  
   - Numpy Handson - https://colab.research.google.com/drive/1CtNNEGnsScF93TntMuQcZNMOSZTrUI8S?usp=sharing
   - Pandas Handson - https://colab.research.google.com/drive/1CtbgPGhLpxqpnj7lxnf9yqZ8njsv4WGq?usp=sharing
+  - Visualisation Handson - https://colab.research.google.com/drive/1rEyJZItAoo4vHACCmEc3Wf_FPqH03ohr?usp=sharing

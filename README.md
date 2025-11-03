@@ -42,4 +42,8 @@
      - 30,40,50,52,45,65,260,180
      - in case of health dataset , do not call a value as outlier simply
   - Seaborn Basic - https://colab.research.google.com/drive/1RQ7uXTozbHYEnxpdHNYCFgXRxXC3jZHD?usp=sharing
+    
+  # Statistic and Probability
+    Trainer - Niyati 
+  - Link 1 - https://colab.research.google.com/drive/15x5wfJeequRKa19VlLqPR8hLTbRtD60m#scrollTo=ZiCzhVCMcTlx
   

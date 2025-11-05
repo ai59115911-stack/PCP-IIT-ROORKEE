@@ -46,4 +46,5 @@
   # Statistic and Probability
     Trainer - Niyati 
   - Link 1 - https://colab.research.google.com/drive/15x5wfJeequRKa19VlLqPR8hLTbRtD60m#scrollTo=ZiCzhVCMcTlx
-  
+    Trainer - Aryan
+  - link 1 - https://colab.research.google.com/drive/1XlqhI5hxe73iojbsIZCsu0WT11SPQZ6Z?usp=sharing

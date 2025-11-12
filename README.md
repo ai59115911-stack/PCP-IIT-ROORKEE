@@ -49,3 +49,6 @@
 
     Trainer - Aryan
   - link 1 - https://colab.research.google.com/drive/1XlqhI5hxe73iojbsIZCsu0WT11SPQZ6Z?usp=sharing
+
+  #  Airbnb Case Study
+  - link - https://colab.research.google.com/drive/1b8SvgfQk7aneIXEBsCtaXxbXe8lvJ4mE?usp=sharing#scrollTo=0BiMss-P70Vv

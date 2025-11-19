@@ -51,4 +51,6 @@
   - link 1 - https://colab.research.google.com/drive/1XlqhI5hxe73iojbsIZCsu0WT11SPQZ6Z?usp=sharing
 
   #  Airbnb Case Study
-  - link - https://colab.research.google.com/drive/1b8SvgfQk7aneIXEBsCtaXxbXe8lvJ4mE?usp=sharing#scrollTo=0BiMss-P70Vv
+  - Link - https://colab.research.google.com/drive/1b8SvgfQk7aneIXEBsCtaXxbXe8lvJ4mE?usp=sharing#scrollTo=0BiMss-P70Vv
+  # Inferential Statistics
+  - Link - https://drive.google.com/drive/u/0/folders/15sPS4FSIcCH8wRyu5cVvaLaL0JNwlbPU

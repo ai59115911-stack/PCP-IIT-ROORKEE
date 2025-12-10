@@ -1,4 +1,4 @@
-## PCP IIT ROORKEE COLLAB LINK
+# PCP IIT ROORKEE COLLAB LINK
    Following are the links 
 - # Linux 
    - https://docs.google.com/document/d/1KuoAdLJd8XFcNMltJBsOWKKMedFCb9aF9xUuaNZ-JEc/edit?tab=t.0
@@ -42,15 +42,30 @@
      - 30,40,50,52,45,65,260,180
      - in case of health dataset , do not call a value as outlier simply
   - Seaborn Basic - https://colab.research.google.com/drive/1RQ7uXTozbHYEnxpdHNYCFgXRxXC3jZHD?usp=sharing
+  - US honey case study - https://colab.research.google.com/drive/1ddZ1gZKnqigJuyIjx6_1DfH5AS8Rj8hh?usp=sharing#scrollTo=71uubMbSyCcZ
+  - HR Analytics Handson - https://colab.research.google.com/drive/1RImKk4roQx2mBioXFEdOfpNxAyJCUj8z?usp=sharing
     
   # Statistic and Probability
     Trainer - Niyati 
   - Link 1 - https://colab.research.google.com/drive/15x5wfJeequRKa19VlLqPR8hLTbRtD60m#scrollTo=ZiCzhVCMcTlx
 
     Trainer - Aryan
-  - link 1 - https://colab.research.google.com/drive/1XlqhI5hxe73iojbsIZCsu0WT11SPQZ6Z?usp=sharing
+  - Link 1 - https://colab.research.google.com/drive/1XlqhI5hxe73iojbsIZCsu0WT11SPQZ6Z?usp=sharing
 
   #  Airbnb Case Study
   - Link - https://colab.research.google.com/drive/1b8SvgfQk7aneIXEBsCtaXxbXe8lvJ4mE?usp=sharing#scrollTo=0BiMss-P70Vv
   # Inferential Statistics
+  - Trainer - Kumar Shikar
   - Link - https://drive.google.com/drive/u/0/folders/15sPS4FSIcCH8wRyu5cVvaLaL0JNwlbPU
+  - Hypothesis Testing - https://colab.research.google.com/drive/1p_sHCzCeo2eBr5nHtP93wFSCI68hd8a2#scrollTo=DDvzRx5R1ZFZ
+  - Inferential Handson 1 - https://colab.research.google.com/drive/13R0VdAkNl9y9wtczKL57jII1aix-7l2a?usp=sharing
+  - Inferential Handson 2 - https://colab.research.google.com/drive/14wYkxYWrk2401G58pLvOg9IO7yazUb6D?usp=sharing
+  # Linear Algebra
+  - Link 1 - https://drive.google.com/drive/u/0/folders/1Wv0Y4S4PF6RA2FeC7jTyqMj3hl82G64w
+  - Link 2 - https://drive.google.com/drive/folders/1ErREpgzHqmUVKQSFB-F90qihMo8VYOJP
+  - Handson - https://colab.research.google.com/drive/1TOxkeTqN7A_0aRxwn6RvX5usTpfP0g3C?usp=sharing
+  # EDA case study
+  - Trainer - Rachel 
+  - link 1 - https://colab.research.google.com/drive/16OY98rzGBQezQQJIF5WdqFsXvkIjGcq3?usp=sharing
+  - Commodities case study - https://colab.research.google.com/drive/1uQTIvJmCCkvvrBHFqo-VsAdKbZulIVc-?usp=sharing#scrollTo=x0FrKOF1oIRr
+  - Purchase case study - 

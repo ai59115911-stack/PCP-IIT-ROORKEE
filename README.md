@@ -58,10 +58,8 @@
   - Trainer - Kumar Shikar
   - Link - https://drive.google.com/drive/u/0/folders/15sPS4FSIcCH8wRyu5cVvaLaL0JNwlbPU
   - Hypothesis Testing - https://colab.research.google.com/drive/1p_sHCzCeo2eBr5nHtP93wFSCI68hd8a2#scrollTo=DDvzRx5R1ZFZ
-  - Inferential Handson 1 - https://colab.research.google.com/drive/13R0VdAkNl9y9wtczKL57jII1aix-7l2a?usp=sharing
-  - Inferential Handson 2 - https://colab.research.google.com/drive/14wYkxYWrk2401G58pLvOg9IO7yazUb6D?usp=sharing
-  # Purchase Case Study
-  - Link - https://colab.research.google.com/drive/13R0VdAkNl9y9wtczKL57jII1aix-7l2a?usp=sharing#scrollTo=1_I5COJGlqnO
+  - Inferential Handson 1 ( Purchase Case Study ) By Nyati - https://colab.research.google.com/drive/13R0VdAkNl9y9wtczKL57jII1aix-7l2a?usp=sharing
+  - Inferential Handson 2 ( HR Analytics ) By Nyati - https://colab.research.google.com/drive/14wYkxYWrk2401G58pLvOg9IO7yazUb6D?usp=sharing
   # Linear Algebra
   - Link 1 - https://drive.google.com/drive/u/0/folders/1Wv0Y4S4PF6RA2FeC7jTyqMj3hl82G64w
   - Link 2 - https://drive.google.com/drive/folders/1ErREpgzHqmUVKQSFB-F90qihMo8VYOJP

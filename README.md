@@ -63,6 +63,7 @@
   # Linear Algebra
   - Link 1 - https://drive.google.com/drive/u/0/folders/1Wv0Y4S4PF6RA2FeC7jTyqMj3hl82G64w
   - Link 2 - https://drive.google.com/drive/folders/1ErREpgzHqmUVKQSFB-F90qihMo8VYOJP
+  - Linear Algebra ML books - https://drive.google.com/drive/folders/1ErREpgzHqmUVKQSFB-F90qihMo8VYOJP
   - Handson - https://colab.research.google.com/drive/1TOxkeTqN7A_0aRxwn6RvX5usTpfP0g3C?usp=sharing
   # EDA case study
   - Trainer - Rachel 

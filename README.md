@@ -75,4 +75,4 @@
   - Intro by Kumar Shikar Sir - https://drive.google.com/drive/folders/1Wv0Y4S4PF6RA2FeC7jTyqMj3hl82G64w
   #  Linear Regression Theory
   - By IIT Prof - Vivek Kanhangad
-  - 
+  - Link - https://drive.google.com/drive/folders/1br6Aevc4MfAGrYhvsd5oODX-EgjWhzbu

@@ -71,4 +71,8 @@
   - Commodities case study - https://colab.research.google.com/drive/1uQTIvJmCCkvvrBHFqo-VsAdKbZulIVc-?usp=sharing#scrollTo=x0FrKOF1oIRr
   - Purchase case study By Rachel - https://colab.research.google.com/drive/1LQTzByu8WLj6kM1VtIB4A_lF3wqEtjU8?usp=sharing
   - OOPS Revision BY Rachel - https://colab.research.google.com/drive/1xKk8zLQGbqVmveTFgMNiEsy1aZAzLQ8r?usp=sharing
-
+  # Introduction to ML
+  - Intro by Kumar Shikar Sir - https://drive.google.com/drive/folders/1Wv0Y4S4PF6RA2FeC7jTyqMj3hl82G64w
+  #  Linear Regression Theory
+  - By IIT Prof - Vivek Kanhangad
+  - 
